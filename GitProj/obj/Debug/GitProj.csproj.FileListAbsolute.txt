@@ -1,1 +1,15 @@
 C:\GitProj\GitProj\GitProj\bin\Debug\GitProj.exe.config
+C:\GitProj\GitProj\GitProj\bin\Debug\GitProj.exe
+C:\GitProj\GitProj\GitProj\bin\Debug\GitProj.pdb
+C:\GitProj\GitProj\GitProj\obj\Debug\MainWindow.baml
+C:\GitProj\GitProj\GitProj\obj\Debug\MainWindow.g.cs
+C:\GitProj\GitProj\GitProj\obj\Debug\App.g.cs
+C:\GitProj\GitProj\GitProj\obj\Debug\GitProj_MarkupCompile.cache
+C:\GitProj\GitProj\GitProj\obj\Debug\GitProj.g.resources
+C:\GitProj\GitProj\GitProj\obj\Debug\GitProj.Properties.Resources.resources
+C:\GitProj\GitProj\GitProj\obj\Debug\GitProj.csproj.GenerateResource.Cache
+C:\GitProj\GitProj\GitProj\obj\Debug\GitProj.exe
+C:\GitProj\GitProj\GitProj\obj\Debug\GitProj.pdb
+C:\GitProj\GitProj\GitProj\obj\Debug\Window1.baml
+C:\GitProj\GitProj\GitProj\obj\Debug\Window1.g.cs
+C:\GitProj\GitProj\GitProj\obj\Debug\GitProj.csprojResolveAssemblyReference.cache
