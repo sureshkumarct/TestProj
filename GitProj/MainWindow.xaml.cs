@@ -24,5 +24,15 @@ namespace GitProj
         {
             InitializeComponent();
         }
+
+        void DialNumber( string num)
+        {
+            Console.WriteLine("Dialing number...");
+        }
+
+        void Trial()
+        {
+
+        }
     }
 }
