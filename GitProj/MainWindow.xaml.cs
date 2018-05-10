@@ -29,5 +29,10 @@ namespace GitProj
         {
             Console.WriteLine("Dialing number...");
         }
+
+        void Trial()
+        {
+
+        }
     }
 }
