@@ -32,7 +32,7 @@ namespace GitProj
 
         void Trial()
         {
-
+            // Added comment
         }
     }
 }
